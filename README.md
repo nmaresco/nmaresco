@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole Maresco.
 - 👀 I’m interested in musicproduction, art, and coding. 
-- 🌱 I’m currently learning the ground work for C# and html.
+- 🌱 I’m currently learning the ground work for C#, html, css, javascript, bootstrap, and jquery.
 - 💞️ I’m looking to collaborate on a community open source project.
 - 📫 How to reach me: Nicole.Maresco@gmail.com
 
